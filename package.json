@@ -14,11 +14,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://www.github.com/wittlock/ngx-image-zoom"
+        "url": "https://github.com/antonioiodice-reply/ngx-image-zoom"
     },
     "author": {
-        "name": "Mathias Wittlock",
-        "email": "1336118+wittlock@users.noreply.github.com"
+        "name": "Antonio Iodice"
     },
     "keywords": [
         "angular",
@@ -26,13 +25,10 @@
         "image zoom"
     ],
     "license": "MIT",
-    "bugs": {
-        "url": "https://www.github.com/wittlock/ngx-image-zoom/issues"
-    },
     "peerDependencies": {
-        "@angular/common": "^9.0.1",
-        "@angular/core": "^9.0.1",
-        "tslib": "^1.10.0"
+        "@angular/common": "^9.0.1 | ^13.0.1 | ^14.0.1",
+        "@angular/core": "^9.0.1 | ^13.0.1 | ^14.0.1",
+        "tslib": "^1.10.0 | ^2"
     },
     "dependencies": {},
     "devDependencies": {
